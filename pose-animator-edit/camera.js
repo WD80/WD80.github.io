@@ -62,7 +62,6 @@ const avatarSvgs = {
   'boy': boySVG.default,
   'abstract': abstractSVG.default,
   'blathers': blathersSVG.default,
-  'tom-nook': tomNookSVG.default,
 };
 
 /**
